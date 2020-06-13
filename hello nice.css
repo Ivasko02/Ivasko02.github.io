@@ -1,9 +1,4 @@
-body
-{  
-	background-image:url(police-car-265570_1920.jpg);
-	padding:0;
-	margin:0;
-}
+body{background:linear-gradient(to right,yellow,green);}
 .signin{
 	
 	
