@@ -25,6 +25,10 @@ background:linear-gradient(rgba(0,0,0, 0.8),rgba(0,0,0, 0.8)),url('motorcycle-41
 
 	
 }
+ img{
+	padding:20px; 
+	 
+ }
 
 #photo{
 	margin-left:0,5%;
@@ -47,7 +51,10 @@ background:linear-gradient(rgba(0,0,0, 0.8),rgba(0,0,0, 0.8)),url('motorcycle-41
 
 
 .block1{
-	
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+	font-family:sans-serif;
+	min-height:600px;
 	height:500px;
  display:flex;
 justify-content:center;
